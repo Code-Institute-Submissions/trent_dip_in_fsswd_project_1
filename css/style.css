@@ -1,0 +1,8 @@
+body{
+    background-color: #F9F8F7;
+}
+
+[class*='nav-link']{
+    color: #083864ff;
+    font: xx-large;
+}
