@@ -1,8 +1,31 @@
-body{
-    background-color: #F9F8F7;
+body {
+  background-color: #f9f8f7;
 }
 
-[class*='nav-link']{
-    color: #083864ff;
-    font: xx-large;
+[class*="nav-link"] {
+  color: #083864ff;
+  font: xx-large;
+}
+
+.carousel-item img {
+  margin: auto;
+}
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  height: 100px;
+  width: 100px;
+  background-size: 100%, 100%;
+  background-image: none;
+}
+
+.carousel-control-next-icon:after {
+  content: ">";
+  font-size: 55px;
+  color: #083864ff;
+}
+
+.carousel-control-prev-icon:after {
+  content: "<";
+  font-size: 55px;
+  color: #083864ff;
 }
