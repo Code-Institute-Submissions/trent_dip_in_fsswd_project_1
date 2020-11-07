@@ -8,9 +8,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   height="47.422134pt"
-   viewBox="0 -15 213.4554 47.422134"
-   width="213.45537pt"
+   height="33.871284pt"
+   viewBox="0 -15 152.46062 33.871284"
+   width="152.4606pt"
    version="1.1"
    id="svg40"
    sodipodi:docname="brandlogo.svg"
@@ -70,14 +70,14 @@
      showgrid="false"
      inkscape:zoom="2.8780488"
      inkscape:cx="99.179566"
-     inkscape:cy="39.162458"
+     inkscape:cy="21.09466"
      inkscape:window-x="2391"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg40" />
   <g
      id="g1059"
-     transform="translate(-3.9613038,20.250002)">
+     transform="matrix(0.71425057,0,0,0.71425057,-2.8293635,10.177334)">
     <path
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.99299999;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#083864;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.43875027;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        d="M 16.844933,-17.677727 C 14.785594,-17.041795 0.3626528,-28.153 4.8067969,-17.053415 L 13.029642,3.4837288 c 1.149472,2.8708926 1.83221,4.6235702 3.815291,5.6647153 7.138553,3.7478349 14.57128,3.8559329 22.324382,0 1.994492,-0.9919526 2.518958,-2.8662727 3.815294,-5.6647153 l 8.122565,-17.5343708 c 1.296335,-2.798425 -9.900315,-2.85166 -11.937859,-3.627085 -9.88016,-3.760103 -16.124638,-1.914535 -22.324382,0 z m 0,1.753325 h 22.324382 c 1.4697,0 2.634593,1.729262 2.634593,3.911373 V 3.4837288 c 0,2.1821101 -1.210127,3.3744727 -2.634593,3.9116702 -7.554328,2.848983 -14.974435,2.3099476 -22.324382,0 -1.437835,-0.4518675 -2.63459,-1.7295601 -2.63459,-3.9116702 V -12.013029 c 0,-2.182111 1.164896,-3.911373 2.63459,-3.911373 z"
@@ -172,15 +172,15 @@
          inkscape:connector-curvature="0" />
       <polygon
          id="polygon2326"
-         points="373.151,503.322 477.286,503.322 477.286,468.61 373.151,468.61 "
+         points="373.151,468.61 373.151,503.322 477.286,503.322 477.286,468.61 "
          style="fill:#485762" />
       <polygon
          id="polygon2328"
-         points="399.185,468.61 451.253,468.61 451.253,433.898 399.185,433.898 "
+         points="399.185,433.898 399.185,468.61 451.253,468.61 451.253,433.898 "
          style="fill:#95acb9" />
       <polygon
          id="polygon2330"
-         points="355.795,147.525 503.32,147.525 503.32,0 355.795,0 "
+         points="355.795,0 355.795,147.525 503.32,147.525 503.32,0 "
          style="fill:#2080e0" />
       <g
          id="g2336">
@@ -219,35 +219,35 @@
          id="g2360">
         <polygon
            style="fill:#1d1d1b"
-           points="415.981,344.151 415.981,359.824 432.143,359.824 432.143,511.98 447.816,511.98 447.816,359.824 463.979,359.824 463.979,344.151 "
+           points="432.143,511.98 447.816,511.98 447.816,359.824 463.979,359.824 463.979,344.151 415.981,344.151 415.981,359.824 432.143,359.824 "
            id="polygon2344" />
         <polygon
            style="fill:#1d1d1b"
-           points="304.149,359.824 304.149,511.98 319.822,511.98 319.822,359.824 335.984,359.824 335.984,344.151 287.986,344.151 287.986,359.824 "
+           points="319.822,359.824 335.984,359.824 335.984,344.151 287.986,344.151 287.986,359.824 304.149,359.824 304.149,511.98 319.822,511.98 "
            id="polygon2346" />
         <polygon
            style="fill:#1d1d1b"
-           points="184.155,359.824 184.155,511.98 199.828,511.98 199.828,359.824 215.99,359.824 215.99,344.151 167.992,344.151 167.992,359.824 "
+           points="199.828,359.824 215.99,359.824 215.99,344.151 167.992,344.151 167.992,359.824 184.155,359.824 184.155,511.98 199.828,511.98 "
            id="polygon2348" />
         <polygon
            style="fill:#1d1d1b"
-           points="64.16,359.824 64.16,511.98 79.833,511.98 79.833,359.824 95.996,359.824 95.996,344.151 47.998,344.151 47.998,359.824 "
+           points="79.833,359.824 95.996,359.824 95.996,344.151 47.998,344.151 47.998,359.824 64.16,359.824 64.16,511.98 79.833,511.98 "
            id="polygon2350" />
         <polygon
            style="fill:#1d1d1b"
-           points="64.16,0.003 64.16,152.16 47.998,152.16 47.998,167.833 95.996,167.833 95.996,152.16 79.833,152.16 79.833,0.003 "
+           points="47.998,167.833 95.996,167.833 95.996,152.16 79.833,152.16 79.833,0.003 64.16,0.003 64.16,152.16 47.998,152.16 "
            id="polygon2352" />
         <polygon
            style="fill:#1d1d1b"
-           points="192.154,0.003 192.154,152.16 175.992,152.16 175.992,167.833 223.99,167.833 223.99,152.16 207.827,152.16 207.827,0.003 "
+           points="175.992,167.833 223.99,167.833 223.99,152.16 207.827,152.16 207.827,0.003 192.154,0.003 192.154,152.16 175.992,152.16 "
            id="polygon2354" />
         <polygon
            style="fill:#1d1d1b"
-           points="312.149,0.003 312.149,152.16 295.986,152.16 295.986,167.833 343.984,167.833 343.984,152.16 327.822,152.16 327.822,0.003 "
+           points="295.986,167.833 343.984,167.833 343.984,152.16 327.822,152.16 327.822,0.003 312.149,0.003 312.149,152.16 295.986,152.16 "
            id="polygon2356" />
         <polygon
            style="fill:#1d1d1b"
-           points="447.816,152.16 447.816,0.003 432.143,0.003 432.143,152.16 415.981,152.16 415.981,167.833 463.978,167.833 463.978,152.16 "
+           points="432.143,152.16 415.981,152.16 415.981,167.833 463.978,167.833 463.978,152.16 447.816,152.16 447.816,0.003 432.143,0.003 "
            id="polygon2358" />
       </g>
       <g
@@ -366,7 +366,7 @@
          id="g2402">
         <polygon
            style="fill:#ff9a00"
-           points="392.1,291.325 392.1,321.225 363.914,321.225 363.914,267.325 377.199,267.325 377.199,291.325 "
+           points="363.914,267.325 377.199,267.325 377.199,291.325 392.1,291.325 392.1,321.225 363.914,321.225 "
            id="polygon2398" />
         <path
            style="fill:#ff9a00"
@@ -491,16 +491,17 @@
   </g>
   <text
      id="text919"
-     y="7.7929711"
-     x="50.696568"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.00000191px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#083864;fill-opacity:0.99607843;stroke:none;stroke-width:0.75000006"
+     y="1.2798927"
+     x="36.210052"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.42751884px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#083864;fill-opacity:0.99607843;stroke:none;stroke-width:0.53568798"
      xml:space="preserve"><tspan
        sodipodi:role="line"
        id="tspan1089"
-       x="50.696568"
-       y="7.7929711">SGCarpark</tspan></text>
+       x="36.210052"
+       y="1.2798927"
+       style="stroke-width:0.53568798">SGCarpark</tspan></text>
   <g
-     transform="matrix(0.26610026,0,0,0.26610026,6.9747915,-0.92939142)"
+     transform="matrix(0.19006226,0,0,0.19006226,4.9817488,-4.9500598)"
      id="g937">
     <circle
        id="circle947"
@@ -516,24 +517,24 @@
   </g>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.00000191px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#083864;fill-opacity:0.99607843;stroke:none;stroke-width:0.75000006"
-     x="49.729771"
-     y="31.792957"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.42751884px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#083864;fill-opacity:0.99607843;stroke:none;stroke-width:0.53568798"
+     x="35.519516"
+     y="18.421896"
      id="text925"><tspan
-       y="31.792957"
-       x="49.729771"
+       y="18.421896"
+       x="35.519516"
        id="tspan927"
        sodipodi:role="line"
-       style="fill:#083864;fill-opacity:0.99607843;stroke-width:0.75000006">B</tspan></text>
+       style="fill:#083864;fill-opacity:0.99607843;stroke-width:0.53568798">B</tspan></text>
   <text
      id="text931"
-     y="31.792957"
-     x="92.83889"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.00000191px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#083864;fill-opacity:0.99607843;stroke:none;stroke-width:0.75000006"
+     y="18.421896"
+     x="66.310234"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.42751884px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#083864;fill-opacity:0.99607843;stroke:none;stroke-width:0.53568798"
      xml:space="preserve"><tspan
-       y="31.792957"
-       x="92.83889"
+       y="18.421896"
+       x="66.310234"
        id="tspan933"
        sodipodi:role="line"
-       style="fill:#083864;fill-opacity:0.99607843;stroke-width:0.75000006">T</tspan></text>
+       style="fill:#083864;fill-opacity:0.99607843;stroke-width:0.53568798">T</tspan></text>
 </svg>

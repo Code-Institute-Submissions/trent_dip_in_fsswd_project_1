@@ -1,5 +1,6 @@
 body {
   background-color: #f9f8f7;
+  font-family: 'Fjalla One','Cantarell', sans-serif;
 }
 
 [class*="nav-link"] {
@@ -28,4 +29,9 @@ body {
   content: "<";
   font-size: 55px;
   color: #083864ff;
+}
+
+#introcontents{
+  font-family: 'Cantarell', sans-serif;
+  font-size: x-large;
 }
