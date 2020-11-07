@@ -34,4 +34,9 @@ body {
 #introcontents{
   font-family: 'Cantarell', sans-serif;
   font-size: x-large;
+  color: #083864ff;
+}
+
+.dropdown-item{
+  color: #083864ff;
 }
