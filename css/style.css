@@ -40,3 +40,7 @@ body {
 .dropdown-item{
   color: #083864ff;
 }
+
+.dropdown-menu{
+  background: transparent;
+}
