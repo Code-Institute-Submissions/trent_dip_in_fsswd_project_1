@@ -13,7 +13,7 @@
    width="722.56458pt"
    version="1.1"
    id="svg40"
-   sodipodi:docname="Carousel_botWhere.svg"
+   sodipodi:docname="carousel_botwhere.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="metadata46">
@@ -69,8 +69,8 @@
      id="namedview42"
      showgrid="false"
      inkscape:zoom="1.0175439"
-     inkscape:cx="525.24392"
-     inkscape:cy="287.96506"
+     inkscape:cx="-72.461961"
+     inkscape:cy="262.38"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
@@ -85,7 +85,7 @@
        height="505.60532"
        width="722.56464"
        id="rect1742"
-       style="opacity:1;fill:#ffffff;fill-opacity:0.99607843;stroke:none;stroke-width:0.61689115;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+       style="opacity:1;fill:none;fill-opacity:0.99607843;stroke:none;stroke-width:0.61689115;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
     <path
        sodipodi:nodetypes="cssssscscccsssssssss"
        inkscape:connector-curvature="0"
@@ -531,7 +531,7 @@
     <text
        transform="scale(0.97608341,1.0245026)"
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:60.00000381px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:0.97000002;fill:#083864;fill-opacity:0.99607843;stroke:none;stroke-width:2.14598894"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:60.00000528px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;opacity:0.97000002;fill:#083864;fill-opacity:0.99607843;stroke:none;stroke-width:2.14598894;"
        x="238.69713"
        y="100.55448"
        id="text13453"><tspan
@@ -544,7 +544,7 @@
        id="text13459"
        y="101.94299"
        x="95.470619"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32.90100479px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:0.97000002;fill:#083864;fill-opacity:0.99607843;stroke:none;stroke-width:2.14598894"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.90100387px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;opacity:0.97000002;fill:#083864;fill-opacity:0.99607843;stroke:none;stroke-width:2.14598894;"
        xml:space="preserve"><tspan
          sodipodi:role="line"
          id="tspan16644"
@@ -713,5 +713,17 @@
         </g>
       </g>
     </g>
+    <circle
+       style="opacity:0.97000002;fill:#5182ac;fill-opacity:0.99607843;stroke:#083864;stroke-width:7.50000048;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path963"
+       cx="521.81805"
+       cy="171.90182"
+       r="5.9936447" />
+    <circle
+       r="5.9936447"
+       cy="171.90182"
+       cx="588.86548"
+       id="circle965"
+       style="opacity:0.97000002;fill:#5182ac;fill-opacity:0.99607843;stroke:#083864;stroke-width:7.50000048;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
   </g>
 </svg>
