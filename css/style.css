@@ -31,7 +31,7 @@ body {
   color: #083864ff;
 }
 
-#introcontents{
+.contents{
   font-family: 'Cantarell', sans-serif;
   font-size: x-large;
   color: #083864ff;
@@ -43,4 +43,9 @@ body {
 
 .dropdown-menu{
   background: transparent;
+}
+
+.formlabel{
+  font-family: 'Cantarell', sans-serif;
+  color: #083864ff;
 }
