@@ -43,9 +43,15 @@ body {
 
 .dropdown-menu{
   background: transparent;
+  border:1px;
+  border-radius: 10px;
+  padding-top: 0;
+  height: 70px;
+  width: fit-content;
 }
 
 .formlabel{
   font-family: 'Cantarell', sans-serif;
   color: #083864ff;
 }
+
