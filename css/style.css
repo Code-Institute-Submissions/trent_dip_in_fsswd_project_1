@@ -45,7 +45,7 @@ body {
   background: transparent;
   border:1px;
   border-radius: 10px;
-  padding-top: 0;
+  padding-top: 12px;
   height: 70px;
   width: fit-content;
 }

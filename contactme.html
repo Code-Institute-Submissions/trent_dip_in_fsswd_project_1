@@ -20,13 +20,14 @@
         <a class="nav-link active" href="index.html#intro">About</a>
       </li>
       <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Carparks</a>
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown"
+          aria-haspopup="true" aria-expanded="false">Carparks</a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
           <a class="dropdown-item" href="carparks.html#hdbcarpark">
-          <img src="images\hdblogo.svg" alt="hdblogo">Hdb
+            <img src="images\hdblogo.svg" alt="hdblogo">Hdb
           </a>
           <a class="dropdown-item" href="carparks.html#ltacarpark">
-          <img src="images\ltalogo.svg" alt="ltalogo">Lta
+            <img src="images\ltalogo.svg" alt="ltalogo">Lta
           </a>
         </div>
       </li>
@@ -36,33 +37,42 @@
     </ul>
   </header>
   <div class="container">
-    
-    <p class="contents">
-      Hi there! Thanks for visting my website! If you would like to know more about me or
-      want to make more of my kind, please leave your info and query below and my developer will contact you 
-      soon.  
-      </p>
-      <form>
-        <div class = "form-group">
-          <label class="formlabel" for="visitorName">What's your name?</label>
-          <input type="text" class="form-control" id="formname">
-          <label class="formlabel" for="visitorEmail">What's your email address?</label>
-          <input type="email" class="form-control" id="formemail">
-          <label class="formlabel" for="visitorSubject">What's it about?</label>
-          <select class="form-control" id="formsubject">
-            <option></option>
-            <option>Make more of my kind</option>
-            <option>Collaboration</option>
-            <option>Job offer</option>
-            <option>Improve me</option>
-            <option>Need help</option>
-          </select>
-          <label class="formlabel" for="visitorQuery">What do you wanna ask me?</label>
-          <textarea class="form-control" id="formmsg" cols="30" rows="10"></textarea>
-        </div>
-        <button type="submit" class="btn btn-primary">Submit</button>
-      </form>
+    <div class="row justify-content-center align-items-center">
+      <div class="col-8">
 
+        <p class="contents">
+
+          Hi there! Thanks for visting my website! If you would like to know more about me or
+          want to make more of my kind, please leave your info and query below and my developer will contact you
+          soon.
+        </p>
+      </div>
+      <div class="w-100"></div>
+      <div class="col-8">
+
+        <form>
+          <div class="form-group">
+            <label class="formlabel" for="visitorName">What's your name?</label>
+            <input type="text" class="form-control" id="formname">
+            <label class="formlabel" for="visitorEmail">What's your email address?</label>
+            <input type="email" class="form-control" id="formemail">
+            <label class="formlabel" for="visitorSubject">What's it about?</label>
+            <select class="form-control" id="formsubject">
+              <option></option>
+              <option>Make more of my kind</option>
+              <option>Collaboration</option>
+              <option>Job offer</option>
+              <option>Improve me</option>
+              <option>Need help</option>
+            </select>
+            <label class="formlabel" for="visitorQuery">What do you wanna ask me?</label>
+            <textarea class="form-control" id="formmsg" cols="30" rows="10"></textarea>
+          </div>
+          <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
+      </div>
+
+    </div>
   </div>
   <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
     integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
