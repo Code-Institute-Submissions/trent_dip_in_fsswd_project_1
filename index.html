@@ -9,17 +9,22 @@
   <link rel="stylesheet" href="css\style.css">
   <link href="https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css2?family=Cantarell&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      rel="stylesheet">
   <title>SGCarparkBot</title>
 </head>
 
 <body>
-  <header class="navbar sticky-top navbar-light shadow-sm p-2 mb-5 bg-light rounded">
-    <a class="navbar-brand" href="index.html"><img src="images\brandlogo.svg" alt="brandlogo"></a>
+  <div class="container">
+
+  <header class="navbar sticky-top navbar-light shadow p-2 mb-5 bg-light rounded">
+    <a class="navbar-brand" href="index.html"><img src="images\brandlogo.svg" class="img-fluid" alt="brandlogo"></a>
     <ul class="nav justify-content-end">
       <li class="nav-item">
         <a class="nav-link active" href="index.html#intro">About</a>
       </li>
-      <li class="nav-item dropdown">
+      <!-- <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Carparks</a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
           <a class="dropdown-item" href="carparks.html#hdbcarpark">
@@ -29,25 +34,27 @@
           <img src="images\ltalogo.svg" alt="ltalogo">Lta
           </a>
         </div>
+      </li> -->
+      <li class="nav-item">
+        <a class="nav-link active" href="carparks.html">Carparks</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="contactme.html"> Contact Me</a>
       </li>
     </ul>
   </header>
-  <div class="container">
-
+  <!-- <div class="container"> -->
     <h1 style="color: #083864ff;">Have you</h1>
     <div id="carouselBotInterval" class="carousel slide" data-ride="carousel">
       <div class="carousel-inner">
         <div class="carousel-item active">
-          <img src="images\carousel_bothow.svg" class="d-block w-50" alt="How to Reach?">
+          <img src="images\carousel_bothow.svg" class="img-fluid d-block w-50" alt="How to Reach?">
         </div>
         <div class="carousel-item">
-          <img src="images\carousel_botwhere.svg" class="d-block w-50" alt="Where to Find?">
+          <img src="images\carousel_botwhere.svg" class="img-fluid d-block w-50" alt="Where to Find?">
         </div>
         <div class="carousel-item">
-          <img src="images\carousel_botstuck.svg" class="d-block w-50" alt="Stuck at Where?">
+          <img src="images\carousel_botstuck.svg" class="img-fluid d-block w-50" alt="Stuck at Where?">
         </div>
       </div>
       <a class="carousel-control-prev" href="#carouselBotInterval" role="button" data-slide="prev">
@@ -59,18 +66,18 @@
         <span class="sr-only">Next</span>
       </a>
     </div>
-    <h1 id = "intro" style="color: #083864ff;">Introducing</h1>
+    <h1 id = "intro" style="color:#083864ff; padding-top:5rem;">Introducing</h1>
     <div class="row justify-content-center align-items-center">
       <div class="col-4">
         <p class="contents"> Hello World! I'm SGCarparkBot! I'm a telegram chatbot that finds carparks for you almost anywhere and anytime. Just ask me!</p>
       </div>
       <div class="col-4">
-        <img src="images\sgcarparkbotCompleted.svg" alt="SGCarparkBot Logo">
+        <img src="images\sgcarparkbotCompleted.svg" class="img-fluid" alt="SGCarparkBot Logo">
       </div>
     </div>
     <div class="row justify-content-center align-items-center">
       <div class="col">
-        <img src="images\aboutcarpark_botinfoHDBlotfee.JPG" alt="Carpark Info">
+        <img src="images\aboutcarpark_botinfoHDBlotfee.JPG" class="img-fluid" alt="Carpark Info">
       </div>
       <div class="col">
         <p class="contents"> Tell me <span style="font-weight: bolder;">Where</span>  you're or heading to, I'll find the carpark near you!</p>
@@ -83,7 +90,7 @@
         </p>
       </div>
       <div class="col">
-        <img src="images\aboutcarpark_botinfoHDBhow.JPG" alt="Carpark Info">
+        <img src="images\aboutcarpark_botinfoHDBhow.JPG" class="img-fluid" alt="Carpark Info">
       </div>
     </div>
     <h1 style="color: #083864ff;">My Demo</h1>
@@ -103,6 +110,6 @@
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js"
     integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx"
     crossorigin="anonymous"></script>
-</body>
+  </body>
 
 </html>

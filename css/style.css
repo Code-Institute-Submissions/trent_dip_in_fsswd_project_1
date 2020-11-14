@@ -1,6 +1,6 @@
 body {
   background-color: #f9f8f7;
-  font-family: 'Fjalla One','Cantarell', sans-serif;
+  font-family: 'Fjalla One','Libre Baskerville', 'Cantarell',  serif, sans-serif;
 }
 
 [class*="nav-link"] {
@@ -33,7 +33,7 @@ body {
 
 .contents{
   font-family: 'Cantarell', sans-serif;
-  font-size: x-large;
+  font-size:20px;
   color: #083864ff;
 }
 
@@ -41,17 +41,31 @@ body {
   color: #083864ff;
 }
 
-.dropdown-menu{
-  background: transparent;
-  border:1px;
+.dropdown-menu {
+  background: #f8f9fA;
+  /* border:1px;
   border-radius: 10px;
-  padding-top: 12px;
-  height: 70px;
+  padding-top: 5px;
+  height: 60px;
   width: fit-content;
+  white-space: nowrap;
+  min-width: 30px; */
 }
 
 .formlabel{
   font-family: 'Cantarell', sans-serif;
   color: #083864ff;
 }
+
+li > a:hover{
+  background-color:  #083864ff;
+  border-radius: 10px;
+  color: white;
+}
+li > a:active{
+  background-color: #f9f8f7;
+  color: #083864ff;
+}
+
+
 
