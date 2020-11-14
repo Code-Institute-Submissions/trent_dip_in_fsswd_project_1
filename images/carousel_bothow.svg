@@ -64,14 +64,14 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1013"
+     inkscape:window-width="2400"
+     inkscape:window-height="1284"
      id="namedview42"
      showgrid="false"
-     inkscape:zoom="0.71951219"
-     inkscape:cx="13.44278"
-     inkscape:cy="342.85199"
-     inkscape:window-x="-9"
+     inkscape:zoom="2.0350878"
+     inkscape:cx="397.5573"
+     inkscape:cy="299.40799"
+     inkscape:window-x="2391"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg40" />
@@ -579,12 +579,12 @@
          id="path1970"
          d="M 0,368.617 V 198.499 h 396.859 v 170.118 c 0,15.66 -12.57,28.334 -28.137,28.381 H 28.369 C 12.707,396.998 0,384.301 0,368.617"
          inkscape:connector-curvature="0"
-         style="clip-rule:evenodd;fill:#e94e1b;fill-rule:evenodd" />
+         style="clip-rule:evenodd;fill:none;fill-rule:evenodd" />
       <path
          id="path1972"
          d="M 0,198.499 V 28.367 C 0,12.707 12.707,0 28.369,0 h 340.354 c 15.566,0.045 28.137,12.742 28.137,28.367 v 170.132 z"
          inkscape:connector-curvature="0"
-         style="clip-rule:evenodd;fill:#ffe609;fill-rule:evenodd" />
+         style="clip-rule:evenodd;fill:none;fill-rule:evenodd" />
     </g>
     <path
        id="path1976"
