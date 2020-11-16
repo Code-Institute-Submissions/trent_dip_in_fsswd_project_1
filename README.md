@@ -1,4 +1,4 @@
-![Screenshot](images\brandlogo.svg)
+![brandlogo](https://github.com/simplyedwin/trent_dip_in_fsswd_project_1/blob/main/images/brandlogo.svg?raw=true)
 
 # Milestone Project 1 User Centric Front-End Development - SgCarpark Bot
 ## Introduction
