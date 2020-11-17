@@ -6,8 +6,7 @@ The aim of the static website is to serve as a front facing website to promote m
 shows the motivations, functions, features and limitations of the chat bot.
 
 ## Demo
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/iQbpbqOcjbg/0.jpg)](http://www.youtube.com/watch?v=iQbpbqOcjbg "Telegram Chat Bot")<br />
-### Note: This is a hyper link to the youtube video demonstration of the chat bot
+![](images\sgchatbotwebsite.gif)<br />
 <br />
 
 The website can be accessed via [here](http://simplyedwin.github.io/trent_dip_in_fsswd_project_1/)
