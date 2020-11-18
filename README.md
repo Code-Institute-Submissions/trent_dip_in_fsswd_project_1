@@ -60,18 +60,24 @@ The testing for linking with the 3 html pages are done by clicking onto the bran
 3. Click onto the "Carparks" link and the website shall be landed onto the cappark.html page
 4. Click onto the "Contact Me" link and the website shall be landed onto the contactme.html page
 
+The carousel on the index html page is tested by clicking/not clicking the arrows for the images to change accordingly:
+- Click onto the left and right arrow. The carousel image shall change accordingly 
+- Do not click the left and right arrow. The carousel image shall change automatically.
+
 The website shall remain the same with different browsers, as well as different android and ios devices, to ensure compatibility and responsiveness:
 - Run the website on different browsers, android and ios devices.
 
 ## Deployment
-The website is hosted using github page via github repository 
+The website is hosted using github page. 
 
 ## Credits
-
-### Content
-
 ### Media
+The telegram content snapshots, telegram chatbot logo, name, moving car svg and youtube video used for this website are of my own works. Hdb and LTA logo are taken from wikimedia commons website. Singapore flag and telegram log are sourced from flaticon website.  
 
 ### Acknowledgements
 
+Carousel design inspired by Dribbler user [Kyle Anthony Miller](https://dribbble.com/shots/14520357-Empty-States)
 
+SVG animation on the moving car guides by CSS-Tricks [Sara Soueidan](https://css-tricks.com/guide-svg-animations-smil/) 
+
+Telegram chatbot mascot design inspired by [Eve](https://disney.fandom.com/wiki/EVE) from WALL-E movie
