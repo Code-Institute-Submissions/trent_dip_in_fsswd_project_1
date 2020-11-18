@@ -55,16 +55,16 @@ Any potential user with the following thoughts will find the website useful:
 
 ## Testing
 The testing for linking with the 3 html pages are done by clicking onto the brand logo, "About","Caparks" and "Contact Me" link on the nav bar:
-1. Click onto the brand logo on the left end of the nav bar and the website shall be landed onto the index.html page
-2. Click onto the "About" link and the website shall be landed onto the introduction section of index.html page
-3. Click onto the "Carparks" link and the website shall be landed onto the cappark.html page
-4. Click onto the "Contact Me" link and the website shall be landed onto the contactme.html page
+- Click onto the brand logo on the left end of the nav bar and the website shall be landed onto the index.html page
+- Click onto the "About" link and the website shall be landed onto the introduction section of index.html page
+- Click onto the "Carparks" link and the website shall be landed onto the cappark.html page
+- Click onto the "Contact Me" link and the website shall be landed onto the contactme.html page
 
 The carousel on the index html page is tested by clicking/not clicking the arrows for the images to change accordingly:
 - Click onto the left and right arrow. The carousel image shall change accordingly 
 - Do not click the left and right arrow. The carousel image shall change automatically.
 
-The website shall remain the same with different browsers, as well as different android and ios devices, to ensure compatibility and responsiveness:
+The layout of the website shall remain the same with different browsers, as well as different android and ios devices to ensure compatibility and responsiveness:
 - Run the website on different browsers, android and ios devices.
 
 ## Deployment
