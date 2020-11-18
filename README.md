@@ -2,7 +2,7 @@
 
 # Milestone Project 1 User Centric Front-End Development - SgCarpark Bot
 ## Introduction
-The aim of the static website is to serve as a front facing website to promote my telegram chatbot. It 
+The aim of the static website is to serve as a front facing website to promote a telegram chatbot. It 
 shows the motivations, functions, features and limitations of the chat bot.
 
 ## Demo
@@ -14,20 +14,64 @@ The website can be accessed via [here](http://simplyedwin.github.io/trent_dip_in
 ## UX
 The overall design of the website is orientated towards the chatbot mascot colour theme. Using dark blue for the content and light seashell for the background, this mininalism design ensures distinctive contrast between content and background. The thought process in designing the website is to addresses the following:
 
-            1. Problem Statements
-            2. Highlight of Key Features 
-            3. Explanation of Features
-            4. Communications          
+            1. Problem Statement & Key Features 
+            2. Explanation of Features
+            3. Communications          
  <br />
 
-### Problem Statements and Key Features
-The default page of the website brings up a caroursel effect of different problem statements, followby the highlights on key features of the telegram chatbot and lastly a youtube video demostration of the chatbot in action. Each caroursel captures different kind of user experiences in looking for carpark lots whereas the highlight in key features is to entice users to read further on how these features can be achieved. The demostration will give a quick run through to the user on how the telegraph chatbot work in action.
+### Problem Statements & Key Features
+The default page of the website brings up a caroursel effect of different problem statements, followby the highlights on key features of the telegram chatbot and lastly a youtube video demostration of the chatbot in action. Each caroursel captures different kind of user experiences in looking for carpark lots whereas the highlight in key features is to entice users to read further on how these features can be achieved. The youtube demonstration will give a quick run through to the user on how the telegraph chatbot work in action.
 
 ### Explanation of the Chatbot Features
-The features of the chatbot is elaborated at the carpark page. The carpark page will explain about the chatbot 
+The carpark page explains the features of the chatbot in detail. Screenshot of each feature with it corresponding responds is shown and explained here on how the feature is achieved.  
 
 ### Communications
-
-
+In order for user to express their interest on the chatbot for future developnent or assistance in chatbot development, a contact me form is available in the contact me page.
 
 ## User Stories
+Any potential user with the following thoughts will find the website useful:
+* I would like to find a carpark right now and what can help me?
+* I would like to develop a chatbot and I need help.
+* I loves to use telegram app.
+* I wonder how much is the fee for the carpark nearby?
+* I am stuck, I don't how and where I am and I need to park my car.
+
+## Wireframe
+
+## Technologies
+### Styling
+1. HTML/CSS 
+2. Javascript
+3. Bootstrap (4.5.3)
+4. Google Fonts API
+5. SVG
+6. Material Icon
+7. Inkscape
+
+## Features
+
+## Feature Left to Implement
+- Link up the contact me with email
+
+## Testing
+The testing for linking with the 3 html pages are done by clicking onto the brand logo, "About","Caparks" and "Contact Me" link on the nav bar:
+1. Click onto the brand logo on the left end of the nav bar and the website shall be landed onto the index.html page
+2. Click onto the "About" link and the website shall be landed onto the introduction section of index.html page
+3. Click onto the "Carparks" link and the website shall be landed onto the cappark.html page
+4. Click onto the "Contact Me" link and the website shall be landed onto the contactme.html page
+
+The website shall remain the same with different browsers, as well as different android and ios devices, to ensure compatibility and responsiveness:
+- Run the website on different browsers, android and ios devices.
+
+## Deployment
+The website is hosted using github page via github repository 
+
+## Credits
+
+### Content
+
+### Media
+
+### Acknowledgements
+
+
