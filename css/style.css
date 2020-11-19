@@ -67,7 +67,7 @@ li > a:active{
   color: #083864ff;
 }
 
-@media screen and (min-width: 801px) {
+/* @media screen and (min-width: 801px) {
   .contents {
     font-size: 28px;
   }
@@ -77,24 +77,32 @@ li > a:active{
   .contents {
     font-size: 14px;
   }
-}
+} */
 
 /* Extra small devices (portrait phones, less than 576px) */
-@media (max-width: 575.98px) {  
-
+@media screen and (max-width: 575.98px) {  
+  .contents {
+    font-size: 10px;
+  }
 }
 
 /* Small devices (landscape phones, less than 768px) */
-@media (max-width: 767.98px) {  
-
+@media screen and (min-width: 767.98px) {  
+  .contents {
+    font-size: 14px;
+  }
 }
 
 /* Medium devices (tablets, less than 992px) */
-@media (max-width: 991.98px) {  
-
+@media screen and (min-width: 991.98px) {  
+  .contents {
+    font-size: 28px;
+  }
 }
 
 /* Large devices (desktops, less than 1200px) */
-@media (max-width: 1199.98px) {  
-  
-}
+/* @media screen and (min-width: 1199.98px) {  
+  .contents {
+    font-size: 28px;
+  }
+} */
