@@ -23,7 +23,7 @@ The overall design of the website is orientated towards the chatbot mascot colou
 The default page of the website brings up a caroursel effect of different problem statements, followby the highlights on key features of the telegram chatbot and lastly a youtube video demostration of the chatbot in action. Each caroursel captures different kind of user experiences in looking for carpark lots whereas the highlight in key features is to entice users to read further on how these features can be achieved. The youtube demonstration will give a quick run through to the user on how the telegraph chatbot work in action.
 
 ### Explanation of the Chatbot Features
-The carpark page explains the features of the chatbot in detail. Screenshot of each feature with it corresponding responds is shown and explained here on how the feature is achieved.  
+In the carpark page, the user would be able to understand how each feature of the chatbot works. Screenshot of each feature with it corresponding responds is shown and explained here on how the feature is achieved.  
 
 ### Communications
 In order for user to express their interest on the chatbot for future developnent or assistance in chatbot development, a contact me form is available in the contact me page.
