@@ -60,6 +60,10 @@ li > a:active{
   color: #083864ff;
 }
 
+.sectionpadding{
+  padding-top: 6rem;
+}
+
 /* Extra small devices (portrait phones, less than 576px) */
 @media screen and (max-width: 575.98px) {  
   .contents {
@@ -68,7 +72,7 @@ li > a:active{
 }
 
 /* Small devices (landscape phones, less than 768px) */
-@media screen and (min-width: 767.98px) {  
+@media screen and (max-width: 767.98px) {  
   .contents {
     font-size: 20px;
   }
@@ -80,3 +84,4 @@ li > a:active{
     font-size: 28px;
   }
 }
+
