@@ -49,9 +49,18 @@ Any potential user with the following thoughts will find the website useful:
 7. Inkscape
 
 ## Features
+### Existing Feature
+#### Feature 1: Brand Logo 
+- Allow user to access the landing page
+#### Feature 2: About 
+- Bring user to the introduction section of the sgcarpark bot in the landing page
+#### Feature 3: Carparks 
+- Elaboration of the telegram sgcarpark bot features to user
+#### Feature 4: Contact Me 
+- Allow user to provide contact information and query to the developer
 
-## Feature Left to Implement
-- Link up the contact me with email
+### Feature Left to Implement
+- Link up the "Contact Me" link to the developer email
 
 ## Testing
 The testing for linking with the 3 html pages are done by clicking onto the brand logo, "About","Caparks" and "Contact Me" link on the nav bar:
@@ -81,3 +90,5 @@ Carousel design inspired by Dribbler user [Kyle Anthony Miller](https://dribbble
 SVG animation on the moving car guides by CSS-Tricks [Sara Soueidan](https://css-tricks.com/guide-svg-animations-smil/) 
 
 Telegram chatbot mascot design inspired by [Eve](https://disney.fandom.com/wiki/EVE) from WALL-E movie
+
+Trent colleage staff and classmates for feedbacks on website design
