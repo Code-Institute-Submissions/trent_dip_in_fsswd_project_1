@@ -43,13 +43,6 @@ body {
 
 .dropdown-menu {
   background: #f8f9fA;
-  /* border:1px;
-  border-radius: 10px;
-  padding-top: 5px;
-  height: 60px;
-  width: fit-content;
-  white-space: nowrap;
-  min-width: 30px; */
 }
 
 .formlabel{
@@ -66,18 +59,6 @@ li > a:active{
   background-color: #f9f8f7;
   color: #083864ff;
 }
-
-/* @media screen and (min-width: 801px) {
-  .contents {
-    font-size: 28px;
-  }
-}
-
-@media screen and (max-width: 800px) {
-  .contents {
-    font-size: 14px;
-  }
-} */
 
 /* Extra small devices (portrait phones, less than 576px) */
 @media screen and (max-width: 575.98px) {  
@@ -99,10 +80,3 @@ li > a:active{
     font-size: 28px;
   }
 }
-
-/* Large devices (desktops, less than 1200px) */
-/* @media screen and (min-width: 1199.98px) {  
-  .contents {
-    font-size: 28px;
-  }
-} */
