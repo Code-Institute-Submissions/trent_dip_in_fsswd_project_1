@@ -30,11 +30,11 @@ In order for user to express their interest on the chatbot for future developnen
 
 ## User Stories
 Any potential user with the following thoughts will find the website useful:
-    * I would like to find a carpark right now and what can help me?
-    * I would like to develop a chatbot and I need help.
-    * I loves to use telegram app.
-    * I wonder how much is the fee for the carpark nearby?
-    * I am stuck, I don't how and where I am and I need to park my car.
+* I would like to find a carpark right now and what can help me?
+* I would like to develop a chatbot and I need help.
+* I loves to use telegram app.
+* I wonder how much is the fee for the carpark nearby?
+* I am stuck, I don't how and where I am and I need to park my car.
 
 ## Wireframe
 Click [here](https://xd.adobe.com/view/409d51f7-1a99-4eec-8195-180f2b30f5ea-15ce/) for the wireframe
