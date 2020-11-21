@@ -64,24 +64,48 @@ li > a:active{
   padding-top: 6rem;
 }
 
-/* Extra small devices (portrait phones, less than 576px) */
-@media screen and (max-width: 575.98px) {  
+@media screen and (max-width: 767.97px) {  
   .contents {
     font-size: 16px;
   }
+  .indexheader{
+    font-size: 24px;
+  }
+  .carparksectionlogo img{
+    height: 30px;
+    width: 30px;
+  }
+  .carparksectionlogo h1{
+    font-size: 20px;
+
+  }
+
+  
 }
 
-/* Small devices (landscape phones, less than 768px) */
-@media screen and (max-width: 767.98px) {  
+@media screen and (min-width: 767.98px) {  
   .contents {
     font-size: 20px;
   }
+  .indexheader{
+    font-size: 30px;
+  }
+  .carparksectionlogo h1{
+    font-size: 30px;
+
+  }
 }
 
-/* Medium devices (tablets, less than 992px) */
 @media screen and (min-width: 991.98px) {  
   .contents {
     font-size: 28px;
+  }
+  .indexheader{
+    font-size: 40px;
+  }
+  .carparksectionlogo h1{
+    font-size: 40px;
+
   }
 }
 
