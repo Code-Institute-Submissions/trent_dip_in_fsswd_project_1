@@ -6,8 +6,8 @@ The aim of the static website is to serve as a front facing website to promote a
 shows the motivations, functions, features and limitations of the chat bot.
 
 ## Demo
-![](https://github.com/simplyedwin/trent_dip_in_fsswd_project_1/blob/main/images/sgchatbotwebsite.gif)<br />
-<br />
+![](https://github.com/simplyedwin/trent_dip_in_fsswd_project_1/blob/main/images/sgcarparkchatbotwebsite.gif)
+![](https://github.com/simplyedwin/trent_dip_in_fsswd_project_1/blob/main/images/sgcarparkchatbotmobile.gif)
 
 The website can be accessed via [here](http://simplyedwin.github.io/trent_dip_in_fsswd_project_1/)
 
