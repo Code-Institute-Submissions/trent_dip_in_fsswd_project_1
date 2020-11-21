@@ -4,10 +4,10 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="css\bootstrap.min.css">
-  <link rel="stylesheet" href="js\bootstrap.bundle.min.js">
-  <link rel="stylesheet" href="css\style.css">
-  <link rel="icon" href="images\sgcarparkbotCompleted.svg">
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <link rel="stylesheet" href="js/bootstrap.bundle.min.js">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="icon" href="images/sgcarparkbotCompleted.svg">
   <link href="https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css2?family=Cantarell&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap" rel="stylesheet">
@@ -18,7 +18,7 @@
 <body>
   <div class="container">
     <header class="navbar navbar-expand-lg sticky-top navbar-light shadow p-2 mb-5 bg-light rounded">
-      <a class="navbar-brand" href="index.html"><img src="images\brandlogo.svg" class="img-fluid" alt="brandlogo"></a>
+      <a class="navbar-brand" href="index.html"><img src="images/brandlogo.svg" class="img-fluid" alt="brandlogo"></a>
 
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
         aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -57,12 +57,12 @@
         <form>
           <div class="form-group">
             <label class="formlabel" for="visitorName">What's your name?</label>
-            <input type="text" class="form-control" id="formname">
+            <input type="text" class="form-control" id="visitorName">
             <label class="formlabel" for="visitorEmail">What's your email address?</label>
-            <input type="email" class="form-control" id="formemail">
+            <input type="email" class="form-control" id="visitorEmail">
             <label class="formlabel" for="visitorSubject">What's it about?</label>
-            <select class="form-control" id="formsubject">
-              <option></option>
+            <select class="form-control" id="visitorSubject">
+              <option value="">&nbsp;</option>
               <option>Make more of my kind</option>
               <option>Collaboration</option>
               <option>Job offer</option>
@@ -70,7 +70,7 @@
               <option>Need help</option>
             </select>
             <label class="formlabel" for="visitorQuery">What do you wanna ask me?</label>
-            <textarea class="form-control" id="formmsg" cols="30" rows="10"></textarea>
+            <textarea class="form-control" id="visitorQuery" cols="30" rows="10"></textarea>
           </div>
           <button type="submit" class="btn btn-primary">Submit</button>
         </form>
